@@ -1,5 +1,7 @@
 praw.ini
 *praw.ini
+*.zip
+env/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
